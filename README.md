@@ -14,6 +14,10 @@ Repositório voltado para treinar conceitos e técnicas de testes automatizados,
 Rodando os testes:
 ```npx playwright run```
 
+- C# .NET
+  - 'pwsh bin/Debug/net8.0/playwright.ps1'
+  - 
+
 ### Selenium
 - Pendente
   

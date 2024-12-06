@@ -1,9 +1,7 @@
-node_modules/
-/test-results/
-/playwright-report/
-/blob-report/
-/playwright/.cache/
-/test-results/
-/playwright-report/
-/blob-report/
-/playwright/.cache/
+dotnet/bin
+dotnet/TestResults
+typescript/node_modules/
+typescript/playwright-report/
+typescript/blob-report/
+typescript/playwright/.cache/
+typescript/test-results/

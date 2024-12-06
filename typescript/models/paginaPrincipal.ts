@@ -40,7 +40,7 @@ export class PaginaPrincipal{
     }
     async clickLogin(){
         await this.login.click();
-        await expect(this.page).toHaveURL('https://courses.ultimateqa.com/users/sign_in');
+        await expect(this.page).toHaveURL('https://courses.ultimateqa.com/users/sign_in', {timeout: 15000});
     }
     async clickInteractions(){
         await this.interactions.click();

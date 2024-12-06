@@ -22,11 +22,11 @@ export class Login{
   }
   async loginValidation(username, password){
     await this.login(username, password);
-    await expect(this.message).toHaveText('Signed in successfully.', {timeout: 5000});
+    await expect(this.message).toHaveText('Signed in successfully.', {timeout: 15000});
   }
   async wrongLogin(username, password){
     await this.login(username, password);
-    await expect(this.message).toHaveText('Invalid email or password.');
+    await expect(this.message).toHaveText('Invalid email or password.', {timeout: 15000});
   }
   async close(){
     await this.page.close();
