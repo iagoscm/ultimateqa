@@ -29,4 +29,5 @@ Rodando os testes:
 ### JUnit
 - Pendente
 
-  
+### Robot Framework
+- Pendente
