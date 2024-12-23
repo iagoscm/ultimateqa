@@ -9,13 +9,18 @@ Repositório voltado para treinar conceitos e técnicas de testes automatizados,
 - Typescript
   - Testes funcionais paralelizados e parametrizados, de interface;
   - Test fixtures;
+  - Funcionalidades testadas:
+    - Login
   - 
 
 Rodando os testes:
 ```npx playwright run```
 
 - C# .NET
-  - 'pwsh bin/Debug/net8.0/playwright.ps1'
+  - Testes funcionais paralelizados e parametrizados, de interface;
+  - Funcionalidades testadas:
+    - Login 
+    - 
   - 
 
 ### Selenium
