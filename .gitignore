@@ -1,5 +1,7 @@
 dotnet/bin
+dotnet/obj/Debug/
 dotnet/TestResults
+javascript/node_modules/
 typescript/node_modules/
 typescript/playwright-report/
 typescript/blob-report/
