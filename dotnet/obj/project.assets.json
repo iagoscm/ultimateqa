@@ -1739,19 +1739,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\iago.adm\\.nuget\\packages\\": {}
+    "C:\\Users\\iagom\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iago.matos\\code\\ultimateqa\\dotnet\\playwrightdotnet.csproj",
+      "projectUniqueName": "c:\\Users\\iagom\\code\\ultimateqa\\dotnet\\playwrightdotnet.csproj",
       "projectName": "playwrightdotnet",
-      "projectPath": "C:\\Users\\iago.matos\\code\\ultimateqa\\dotnet\\playwrightdotnet.csproj",
-      "packagesPath": "C:\\Users\\iago.adm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iago.matos\\code\\ultimateqa\\dotnet\\obj\\",
+      "projectPath": "c:\\Users\\iagom\\code\\ultimateqa\\dotnet\\playwrightdotnet.csproj",
+      "packagesPath": "C:\\Users\\iagom\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\iagom\\code\\ultimateqa\\dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\iago.adm\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\iagom\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1817,7 +1817,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

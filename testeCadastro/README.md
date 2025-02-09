@@ -17,12 +17,18 @@
 
 Após isso, o cypress.json é configurado com a baseURL da aplicação.
 
+**Atualmente, estão sendo feitos sem Page Object Models, mas a intenção é também implementá-los**
+
 **Exemplos de cenários de teste:**
 
 1. Preencher o formulário corretamente e enviar → Deve exibir mensagem de sucesso.
 2. Deixar campos obrigatórios vazios → Deve exibir mensagens de erro.
 3. Digitar uma senha fraca (exemplo: "12345") → Deve exibir erro de validação.
 4. Digitar e-mails inválidos (como emails sem domínio) → Deve exibir erro de preenchimento
+
+Os testes serão feitos nesse site: https://demo.automationtesting.in/Register.html
+
+O site não possui tantas amarras/restrições para fazer bons testes de cadastro.
 
 ---
 
